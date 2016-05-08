@@ -1,6 +1,7 @@
 import htmlMinifier from "./html_minifier";
 
 export default {
+
     // Template minification
     htmlMinifier,
 
