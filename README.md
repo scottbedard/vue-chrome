@@ -13,8 +13,11 @@ npm install
 # compile production assets
 gulp compile
 
-# compile development assets, and watch for changes with hot-reloading
+# watch development assets for changes and recompile
 gulp watch
+
+# watch a single src bundle with hot-module-replacement
+gulp watch -hmr popup
 
 # lint .js and .vue files (add --fix to apply autofixes)
 gulp lint
