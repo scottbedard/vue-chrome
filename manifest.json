@@ -5,7 +5,7 @@
   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
   "version": "0.1.0",
   "browser_action": {
-    "default_popup": "dist/popup/template.html"
+    "default_popup": "dist/popup/layout.html"
   },
   "permissions": [
     "activeTab",

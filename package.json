@@ -1,6 +1,9 @@
 {
   "name": "vue-chrome",
   "description": "A starting point for Chrome extensions using Vue.js",
+  "scripts": {
+    "test": "gulp test"
+  },
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-core": "^6.8.0",
