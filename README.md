@@ -16,4 +16,7 @@ gulp watch
 
 # lint .js and .vue files (add --fix to apply autofixes)
 gulp lint
+
+# run unit tests with karma and jasmine
+gulp test
 ```
