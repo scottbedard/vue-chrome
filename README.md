@@ -2,7 +2,7 @@
 
 [![Build status](https://img.shields.io/circleci/project/scottbedard/vue-chrome/master.svg?maxAge=2592000)](https://circleci.com/gh/scottbedard/vue-chrome)
 
-A starting point for Chrome extensions using the [CSP-compliant version of Vue.js](http://vuejs.org/guide/installation.html#CSP-compliant-build)
+A starting point for Chrome extensions using [Vue.js](http://vuejs.org/guide/installation.html#CSP-compliant-build)
 
 ### Basic usage
 

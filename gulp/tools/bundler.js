@@ -19,7 +19,7 @@ export default function(additionalConfig = {}) {
         ...additionalConfig,
     };
 
-    return browserify("src/popup/boot.js", config)
+    return browserify(config)
         .transform(vueify)
         .transform(babelify);
 };
