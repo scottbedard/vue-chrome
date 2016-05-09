@@ -1,5 +1,5 @@
 import Vue from "vue";
-import RootComponent from "../../src/popup/root.vue";
+import RootComponent from "../../src/popup/root";
 
 describe('root.vue', () => {
     it('should render correct contents', () => {

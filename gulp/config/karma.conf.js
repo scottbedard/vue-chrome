@@ -1,3 +1,5 @@
+import browserifyConfig from "./browserify";
+
 module.exports = function(config) {
     config.set({
         browsers: ["Chrome"],
@@ -8,6 +10,7 @@ module.exports = function(config) {
             "../../test/**/*.js": ["browserify"],
         },
         browserify: {
+            extensions: browserifyConfig.extensions,
             debug: true,
             plugin: [require("proxyquireify").plugin],
             singleRun: true,

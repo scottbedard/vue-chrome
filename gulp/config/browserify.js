@@ -3,9 +3,9 @@ import watchify from "watchify";
 
 export default {
     entries: [
-        "src/popup/boot.js"
+        "src/popup/boot.js",
     ],
-    extension: [
+    extensions: [
         ".js",
         ".vue",
     ],

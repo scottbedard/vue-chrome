@@ -1,5 +1,5 @@
 import Vue from "vue";
-import RootComponent from "./root.vue";
+import RootComponent from "./root";
 
 /* eslint-disable no-new */
 new Vue({
