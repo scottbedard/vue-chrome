@@ -13,7 +13,7 @@ npm install
 # compile production assets
 gulp compile
 
-# watch development assets for changes and recompile
+# watch all src files for changes and recompile
 gulp watch
 
 # watch a single src bundle with hot-module-replacement
