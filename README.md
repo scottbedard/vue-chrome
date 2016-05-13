@@ -1,6 +1,7 @@
 # vue-chrome
 
 [![Build status](https://img.shields.io/circleci/project/scottbedard/vue-chrome/master.svg?maxAge=2592000)](https://circleci.com/gh/scottbedard/vue-chrome)
+[![Codecov](https://img.shields.io/codecov/c/github/scottbedard/vue-chrome.svg?maxAge=2592000)]()
 
 A starting point for Chrome extensions using [Vue.js](http://vuejs.org/guide/installation.html#CSP-compliant-build)
 
